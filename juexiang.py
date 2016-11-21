@@ -1,5 +1,6 @@
 #!/usr/local/bin/python3
-# Copyright [c] 2016 By Ansion All rights Reserved.
+#Copyright [c] 2016 By Ansion All rights Reserved.
+#Create time 2016-11-20
 import re
 from pyquery import PyQuery as pq
 import time
