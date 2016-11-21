@@ -1,4 +1,5 @@
 #!/usr/local/bin/python3
+# Copyright [c] 2016 By Ansion All rights Reserved.
 import re
 from pyquery import PyQuery as pq
 import time
